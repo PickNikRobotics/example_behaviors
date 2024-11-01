@@ -4,12 +4,8 @@
   <version>0.0.0</version>
   <description>Example behaviors for MoveIt Pro</description>
 
-  <maintainer email="john@doe.com">
-    John Doe
-  </maintainer>
-  <author email="john@doe.com">
-    John Doe
-  </author>
+  <maintainer email="john@doe.com">John Doe</maintainer>
+  <author email="john@doe.com">John Doe</author>
 
   <license>TODO</license>
 
